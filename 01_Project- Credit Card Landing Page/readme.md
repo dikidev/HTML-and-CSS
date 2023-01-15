@@ -1,4 +1,4 @@
-# Replicate the Following Output
+# Replicated the below design
 
 `Assests are Provided!`
 
